@@ -51,7 +51,7 @@ używających biblioteki ppx_assert.
 
 %package devel
 Summary:	Assert-like extension nodes that raise useful errors on failure - development part
-Summary(pl.UTF-8):	Węzły rozszerzenia w stylu assert, podnoszące przydatne błędy przy niepowodzeniu - cześć programistyczna
+Summary(pl.UTF-8):	Węzły rozszerzenia w stylu assert, podnoszące przydatne błędy przy niepowodzeniu - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
